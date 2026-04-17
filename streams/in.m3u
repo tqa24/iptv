@@ -232,7 +232,7 @@ https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="Enterr10Bangla.in@SD",Enterr 10 Bangla (720p) [Not 24/7]
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="EpicTV.in@SD",Epic TV (1080p)
+#EXTINF:-1 tvg-id="EpicTV.in@Digital",Epic TV Digital (1080p)
 https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-czbq30x55knit/DIYC/PMSL/IN10/Epic_TV_IN_B/Epic_TV_IN_B.m3u8
 #EXTINF:-1 tvg-id="ETNow.in@SD",ET Now (720p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://www.timesnownews.com/
@@ -973,8 +973,6 @@ http://ajkiptv.ridsys.in/riptv/live/RAJ_MUSIX/index.m3u8
 http://103.157.248.140:8000/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@SD",Star Vijay (576p)
 http://ajkiptv.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8
-#EXTINF:-1 tvg-id="StarVijay.in@HD",Star Vijay HD (1080p)
-http://103.157.248.140:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="StarVijay.in@SD",Star Vijay (576p)
 http://ptuf.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8
 #EXTINF:-1 tvg-id="VijaySuper.in@SD",Vijay Super (576p)
@@ -1265,3 +1263,5 @@ https://mumt04.tangotv.in/NEWS24MPCG/index.m3u8
 https://server.livelegitpro.in:9899/gospeltv/index.m3u8
 #EXTINF:-1 tvg-id="ShemarooFilmiGaane.in@HD",Shemaroo Filmi Gaane (1080p)
 http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
+#EXTINF:-1 tvg-id="SamacharPlus.in@SD",Samachar Plus
+https://cdn-2.pishow.tv/live/269/master.m3u8

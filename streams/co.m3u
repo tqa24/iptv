@@ -231,3 +231,7 @@ https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
 http://190.60.40.34:8001/play/a02r
 #EXTINF:-1 tvg-id="WinSports.co@SD",Win Sports (1080p)
 http://190.60.40.34:8001/play/a0ef
+#EXTINF:-1 tvg-id="CanalCHD.co@SD",Canal CHD
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
+#EXTINF:-1 tvg-id="EmisoraLasVegas.co@SD",Emisora Las Vegas
+https://vs20.live.opencaster.com/emisoralasvegas_b84f5781/index.m3u8
